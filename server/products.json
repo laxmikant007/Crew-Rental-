@@ -1,0 +1,179 @@
+[
+    {
+        "id": "thapaserialnoa",
+        "name": "Grass Cutter",
+        "company": "Honda",
+        "price": 6000000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://4.imimg.com/data4/PW/BX/MY-35942334/grass-cutting-machine-500x500.jpg",
+        "description": "A grass cutting machine, also known as a lawn mower, is a motorized device used to cut grass on lawns, parks, or other outdoor spaces. The machine typically consists of a motor, blades, and wheels that allow the operator to push or ride on the device while cutting the grass.",
+        "category": "Equipments",
+        "featured": true
+    },
+    {
+        "id": "thapaserialnob",
+        "name": "DrillMachine , Screwdriver",
+        "company": "Nomex",
+        "price": 5000000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "image": "https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/750x750/112-Pcs-Drill-Machine-and-Screwdriver-Set-New-08.jpg",
+        "description": "A drill machine is a handheld power tool that rotates a drill bit to make holes in various materials such as wood, plastic, metal, or concrete. It can also be used to drive screws into these materials. Depending on the type of project you're working on, you may need a corded or cordless drill machine. Corded drills provide consistent power, while cordless drills offer more convenience and portability.",
+        "category": "Equipments"
+    },
+    {
+        "id": "thapaserialnoc",
+        "name": "EXCAVATOR",
+        "company": "Warehouse International",
+        "price": 600000,
+        "colors": [
+            "#22D3EF",
+            "#CDD0D0"
+        ],
+        "image": "https://www.blackridgeresearch.com/uploads/IMG_458225.webp",
+        "description": "An excavator typically contains a hydraulic crane-like boom, digging bucket, dipper (or stick), and an operator cabin on a 3600 rotating platform (useful for working multiple areas from one location) above an undercarriage with tracks or wheels. The heavy machine can handle a variety of works by changing the front attachment to an auger, a grab, ripper, rock breaker, etc. A tracked/track excavator uses steel tracks to navigate a variety of conditions and terrains. However, a wheeled/wheel excavator's movement is assisted by massive, construction-grade equipment tires..",
+        "category": "Loading"
+    },
+    {
+        "id": "thapaserialnod",
+        "name": "JCB New Condition",
+        "company": "JCB",
+        "price": 12599,
+        "colors": [
+            "#000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.jcbexplore.com/wp-content/uploads/2020/10/Excavator-1024x767.png",
+        "description": "Looking for a reliable and efficient JCB machine for your construction site? Look no further than our top-of-the-line JCB machine, now available for rent! With a powerful engine and heavy-duty construction, this JCB machine can handle even the toughest tasks with ease. Whether you need to dig trenches, move heavy loads, or clear debris, our JCB machine has you covered. It features a spacious and comfortable cab with ergonomic controls, so you can work for hours without getting fatigued",
+        "category": "JCB"
+    },
+    {
+        "id": "thapaserialnoe",
+        "name": "Pipe wrench",
+        "company": "VENUS",
+        "price": 40000,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://insights.workwave.com/wp-content/uploads/2020/06/adjustable-wrench-300x200.jpg",
+        "description": "Plumbers use pipe wrenches to tighten and loosen nuts and fittings on pipes. Two of these are often used together, one for holding a pipe in place and the other for rotating a nut or fitting.",
+        "category": "Plumbing"
+    },
+    {
+        "id": "thapaserialnof",
+        "name": "CONCRETE-MIXER",
+        "company": "ACC Cement",
+        "price": 42999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://www.blackridgeresearch.com/uploads/IMG_514591.webp",
+        "description": "TAlso known as a cement mixer,a concrete mixer is a special truck used to mix concrete ingredients and ship the mixture to a construction site. Generally, the truck is filled with dry materials and water, with mixing continuing during delivery. In addition, a concrete mixer can maintain the mixture's liquid state through turning of the mixing container until delivery. On the contrary, the truck can be loaded with material that has already been mixed at a plant. While large volumes of concrete with required consistency and superior quality can be produced by using a concrete mixer, a portable concrete mixer can also be used to make concrete at a construction site..",
+        "category": "Hard Mixer"
+    },
+    {
+        "id": "thapaserialnog",
+        "name": "ARTICULATED TRUCK",
+        "company": "Cat®",
+        "price": 23000,
+        "colors": [
+            "#CDD0D0",
+            "#000"
+        ],
+        "image": "https://www.blackridgeresearch.com/uploads/IMG_743676.webp",
+        "description": "An articulated truck is an adaptable and versatile heavy-duty dump truck that consists of a cab (tractor unit) and a narrow trailer or dump box, connected via a pivoting hinge. Articulated haulers or articulated trucks are used at many rigorous worksites, with little to no paved roads, low ceiling height, slippery or sandy surfaces, or steep slopes. Such trucks are best suited for diverse job sites",
+        "category": "Construction"
+    },
+    {
+        "id": "thapaserialnoh",
+        "name": "Truck Pair",
+        "price": 21000,
+        "company": "JMS",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://cpnonline.co.uk/wp-content/uploads/2023/02/705-01-Asset-Alliance-Group-JMS-Plant-Hire-1200x900-1.jpg",
+        "description": "The first truck in the pair is a heavy-duty flatbed truck, equipped with a spacious cargo area that can handle large and heavy loads. This truck features a powerful engine and a sturdy suspension system, allowing it to handle rough terrain and long-distance hauls with ease. It also comes equipped with advanced safety features, including anti-lock brakes and airbags, ensuring the safety of both the driver and the cargo. The second truck in the pair is a box truck, ideal for transporting goods that require protection from the elements",
+        "category": "group",
+        "featured": true
+    },
+    {
+        "id": "thapaserialnoi",
+        "name": "BACKHOE LOADER",
+        "price": 39999,
+        "company": "VOLVO",
+        "colors": [
+            "#000000"
+        ],
+        "image": "https://www.blackridgeresearch.com/uploads/IMG_228692.webp",
+        "description": "A backhoe loader is a multipurpose piece of heavy equipment that serves as a backhoe, loader, or tractor, with a quick turn rate to use the digging bucket and the loader simultaneously.While the tractor is the central operating machine, the loader or loading bucket is in the front and the backhoe or hoe (digging bucket or digging assembly) is located on the back side of the machine.The configuration of a backhoe allows for the front bucket to load, lift, and unload material. Sometimes, the bucket may be replaced with other pieces of equipment like an auger, grappler, or hammer for specific construction operations.",
+        "category": "Construction"
+    },
+    {
+        "id": "thapaserialnoj",
+        "name": "user need",
+        "company": "apple",
+        "price": 300099,
+        "colors": [
+            "#ff0000",
+            "#22D3EF",
+            "#000000"
+        ],
+        "image": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "accessories"
+    },
+    {
+        "id": "thapaserialnok",
+        "name": "JCB + Truck",
+        "company": "J.C Bamford Excavators",
+        "price": 12000,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://english.thebusinessvoice.in/wp-content/uploads/2021/06/mahe.jpg",
+        "description": "This combination is highly efficient, as it allows for seamless integration between the two machines. The JCB can be easily attached to the truck, which means that transportation between job sites can be accomplished quickly and easily. Additionally, the JCB can be used on site for a variety of tasks, which saves time and money on separate equipment rentals or transportation.",
+        "category": "group"
+    },
+    {
+        "id": "thapaserialnol",
+        "name": "Drum Roller",
+        "price": 25000,
+        "company": "CASE",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://www.blackridgeresearch.com/uploads/IMG_242177.webp",
+        "description": "Smooth rollers: Smooth rollers are available in single- or double-drum variations and use a combination of pressure and vibrations to create smooth surfaces out of dirt, gravel, or sand. Moreover, single drum rollers have a heavy drum roll (front) and wheels (back) and work well for paving roads and creating site foundations. On the contrary, double drum rollers (twin drum rollers) do not rely on wheels and are used for flattening asphalt roads. Padfoot rollers: Similar to smooth rollers, padfoot rollers use the same technology but use a strong manipulative force to make soil more compact and solid.",
+        "category": "Construction",
+        "featured": true
+    },
+    {
+        "id": "thapaserialnom",
+        "name": "Motor Grader,Road Roller",
+        "price": 25000,
+        "company": "CASE",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtobuTkm1eYRj2aIFsHOq1kLW3T_3w_5dTg&usqp=CAUcomplete",
+        "description": "Smooth rollers: Smooth rollers are available in single- or double-drum variations and use a combination of pressure and vibrations to create smooth surfaces out of dirt, gravel, or sand. Moreover, single drum rollers have a heavy drum roll (front) and wheels (back) and work well for paving roads and creating site foundations. On the contrary, double drum rollers (twin drum rollers) do not rely on wheels and are used for flattening asphalt roads. Padfoot rollers: Similar to smooth rollers, padfoot rollers use the same technology but use a strong manipulative force to make soil more compact and solid.",
+        "category": " Road Construction",
+        "featured": true
+    }
+]

@@ -1,0 +1,90 @@
+.threedmapHouse {
+    /* display: flex; */
+    /* height: 100vh; */
+    /* width: 100vw; */
+    background-color: #efe4e499;
+    border: 2px solid rgba(61, 120, 230, 0.549);
+   
+}
+
+.house-image {
+    flex: 1;
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 250px;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 100px;
+    margin-bottom : 240px;
+    /* border: 2px solid blue; */
+    border-radius: 10px;
+    width: max-content;
+    
+}
+
+.house-image img {
+    width: 900px;
+    height: 600px;
+    border-radius: 30px;
+    /* box-shadow: 0 0 100px rgba(5, 58, 101, 0.741); */
+    transition: transform 0.4s ease-in-out;
+    
+    
+}
+
+.house-info li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin:2px;
+}
+
+.house-image:hover {
+    transform: scale(1.1);
+}
+
+
+
+.house-info {
+    /* flex: 1; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    background-color: #eee;
+    padding: 20px;
+    float: right;
+    margin-right:410px;
+    margin-top:-490px;
+    border: 2px solid rgba(61, 120, 230, 0.549);
+    border-radius: 30px;
+    /* width: 400px; */
+    box-shadow: 0 0 100px rgba(5, 58, 101, 0.757);
+
+    
+
+}
+
+.house-info h2 {
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.house-info ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.house-info li {
+    margin-bottom: 10px;
+    font-size: 2em;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    
+
+
+
+}

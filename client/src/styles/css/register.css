@@ -1,0 +1,175 @@
+* {
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+  }
+  .section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+    background: #dde5f4;
+  }
+
+  .screen-1 {
+    background: #f1f7fe;
+    
+    font-size: 1.5em;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    box-shadow: 0 0 2em #e6e9f9;
+    gap: 2em;
+  }
+
+  .image-container{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+  }
+
+  .screen-1 .input_box {
+    background: white;
+    box-shadow: 0 0 2em #e6e9f9;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    border-radius: 20px;
+    color: #4d4d4d;
+    font-size: 1em;
+  }
+  .screen-1 .input_box input {
+    outline: none;
+    border: none;
+    font-size: 1em;
+  }
+  .screen-1 .input_box input::placeholder {
+    color: rgb(170, 165, 165);
+    font-size: 1em;
+  }
+  .screen-1 .input_box ion-icon {
+    color: #4d4d4d;
+    margin-bottom: -0.2em;
+    margin-right: 5px;
+    font-size: 1em;
+    
+
+  }
+  
+  .screen-1 .login {
+    padding: 1em;
+    background: #3e4684;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 1.2em;
+  }
+  .screen-1 .footer {
+    display: flex;
+    font-size: 2rem;
+    color: #5e5e5e;
+    gap: 4em;
+  }
+  .screen-1 .footer span {
+    cursor: pointer;
+  }
+  button {
+    cursor: pointer;
+  }
+
+  .links_btn{
+    text-decoration: none;
+    color: #3e4684;
+    font-weight: bold;
+  }
+  
+  .links_btn:hover{
+    text-decoration: underline;
+  }
+
+  .link_btn{
+    color: #fff;
+    text-decoration: none;
+  }
+
+
+  
+
+
+
+
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    height: 100vh;
+  }
+  
+  .section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+  }
+
+  .social-media-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    /* margin-right: 200px; */
+  }
+  
+  .social-media-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 200px;
+    
+  }
+  
+  .google-button {
+    background-color: #DB4437;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .linkedin-button {
+    background-color: #0077B5;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .github-button {
+    background-color: #24292E;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+
+  
