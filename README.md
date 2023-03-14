@@ -47,7 +47,7 @@ First to install all the packages
 node index.js
 ```
 
-## Here we deployed the Backend on Netlify so no need to worry simply follow this link : 
+## Here we deployed the Backend on railway and Render so no need to worry simply follow this link : 
 https://rental-data-api.up.railway.app/api/products
 
 ## Ai Chat Bot Deployed Link : 
