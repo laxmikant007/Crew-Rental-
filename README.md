@@ -1,5 +1,6 @@
-
-![Logo](https://drive.google.com/u/0/uc?id=1qA2dz01DxdX6zWZpBinm-CK9KsNI5sVI&export=download)
+<div align="center">
+  <img src="https://drive.google.com/u/0/uc?id=1qA2dz01DxdX6zWZpBinm-CK9KsNI5sVI&export=download" width="200" />
+</div>
 
 
 # Crew-Rental Store
