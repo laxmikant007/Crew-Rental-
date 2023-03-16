@@ -1,5 +1,6 @@
-
-![Logo](https://drive.google.com/u/0/uc?id=1qA2dz01DxdX6zWZpBinm-CK9KsNI5sVI&export=download)
+<div align="center">
+  <img src="https://drive.google.com/u/0/uc?id=1qA2dz01DxdX6zWZpBinm-CK9KsNI5sVI&export=download" width="200" />
+</div>
 
 
 # Crew-Rental Store
@@ -47,8 +48,11 @@ First to install all the packages
 node index.js
 ```
 
-## Here we deployed the Backend on Netlify so no need to worry simply follow this link : 
+## Here we deployed the Backend on railway and Render so no need to worry simply follow this link : 
 https://rental-data-api.up.railway.app/api/products
+
+## Ai Chat Bot Deployed Link : 
+https://codex-backend-3wci.onrender.com/
 
 
 
